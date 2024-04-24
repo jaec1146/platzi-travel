@@ -1,0 +1,2 @@
+# platzi-travel
+tailwind proyect
